@@ -200,22 +200,6 @@ h1 {
   margin: 10px;
 }
 
-/* Articulos */
-
-.articulos {
-  min-height: 500px;
-  padding: 30px;
-}
-
-.articulos .card {
-  width: 80%;
-  max-width: 600px;
-  margin: 20px;
-}
-
-.articulos .card-header {
-  font-weight: bold;
-}
 
 /* Testimonios */
 
